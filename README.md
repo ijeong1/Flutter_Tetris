@@ -26,13 +26,16 @@ dependencies:
 ---
 
 ## 🛠️ Installation
+```
 ` git clone https://github.com/ijeong1/Flutter_Tetris.git
 ` cd fluttris
 ` flutter pub get
 ` flutter run
+```
 
 ---
 ## 🗂️ Project Structure
+```
 lib/
 ├── models/
 │   └── tetris_model.dart       # Game logic & data models
@@ -44,3 +47,4 @@ lib/
 ├── views/
 │   └── tetris_view.dart        # UI components
 └── main.dart                   # App entry & DI setup
+```
