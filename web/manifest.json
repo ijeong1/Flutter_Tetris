@@ -1,6 +1,6 @@
 {
-    "name": "fluttris",
-    "short_name": "fluttris",
+    "name": "flutter_tetris",
+    "short_name": "flutter_tetris",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
