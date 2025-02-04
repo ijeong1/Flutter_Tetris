@@ -18,7 +18,7 @@ Run it on iOS, Android, or any Flutter-supported platform!
 ---
 
 ## 📦 Dependencies
-```yaml
+``yaml
 dependencies:
   flutter:
     sdk: flutter
