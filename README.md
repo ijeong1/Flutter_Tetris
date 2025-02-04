@@ -18,11 +18,12 @@ Run it on iOS, Android, or any Flutter-supported platform!
 ---
 
 ## 📦 Dependencies
+```
 dependencies:
   flutter:
     sdk: flutter
   get_it: ^7.2.0  # For dependency injection
-
+```
 ---
 
 ## 🛠️ Installation
