@@ -3,8 +3,6 @@
 A classic Tetris game built with Flutter using the **MVVM pattern** and **Dependency Injection (IoC)**.  
 Run it on iOS, Android, or any Flutter-supported platform!
 
-![Tetris Gameplay](screenshots/gameplay.gif) *(Replace with your own screenshot)*
-
 ---
 
 ## ✨ Features
